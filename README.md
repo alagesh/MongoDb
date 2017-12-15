@@ -1,5 +1,5 @@
 # CRUD Operation in MongoDb
-## Program output using POJO - App_POJO.java 
+## Program output for App_POJO.java 
 [Create] Total Number of documents in collection: 8 <br />
 [Retrieve] Printing documents with Rating greater than 90:  <br />
 Movie [Id=5a345c4a5187ea3340d8f3e3, name=Coco, rating=96] <br />
