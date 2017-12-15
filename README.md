@@ -6,7 +6,7 @@ Movie [Id=5a345c4a5187ea3340d8f3e3, name=Coco, rating=96] <br />
 Movie [Id=5a345c4a5187ea3340d8f3e6, name=Thor: Ragnarok, rating=92] <br />
 Movie [Id=5a345c4a5187ea3340d8f3e8, name=Lady Bird, rating=100] <br />
 Movie [Id=5a345c4a5187ea3340d8f3ea, name=Quest, rating=100] <br />
-[Update]: Records modified -1 <br />
+[Update]: Records modified : 1 <br />
 [Delete] Total Number of documents after 'deleteOne' operation:  7 <br />
 [Delete] Total Number of documents after 'deleteMany' operation:  0 <br />
 [Success] Closed connection <br />
