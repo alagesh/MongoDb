@@ -1,5 +1,17 @@
 # CRUD Operation in MongoDb
-## Program output 
+## Program output using POJO - App_POJO.java 
+[Create] Total Number of documents in collection: 8 <br />
+[Retrieve] Printing documents with Rating greater than 90:  <br />
+Movie [Id=5a345c4a5187ea3340d8f3e3, name=Coco, rating=96] <br />
+Movie [Id=5a345c4a5187ea3340d8f3e6, name=Thor: Ragnarok, rating=92] <br />
+Movie [Id=5a345c4a5187ea3340d8f3e8, name=Lady Bird, rating=100] <br />
+Movie [Id=5a345c4a5187ea3340d8f3ea, name=Quest, rating=100] <br />
+[Update]: Records modified -1 <br />
+[Delete] Total Number of documents after 'deleteOne' operation:  7 <br />
+[Delete] Total Number of documents after 'deleteMany' operation:  0 <br />
+[Success] Closed connection <br />
+ <br /> <br />
+## Program output for App.java
 [Success] Created connection <br />
 [Create] Total Number of documents in collection: 8 <br />
 [Retrieve] Printing all documents using find operator: <br />
